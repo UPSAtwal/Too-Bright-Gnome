@@ -1,8 +1,8 @@
-# Too-Bright-Gnome
+# Too Bright Gnome
 
 A Simple Gnome extension to control external monitor brightness using ddc/ci.
 
-## Currently tested on Gnome Versions
+## Currently tested Gnome Versions
 
 - Gnome 42.5 on Ubuntu 22.04 LTS
 
